@@ -5,4 +5,6 @@
 # then download the codes : MODEL.ipynb has the code for training the model and opencv.ipynb has the code for using opencv and flask framework
 # then you have to download the pre-trained models if you dont want to train it by yourself , the links are provided in the end the of spec doc and when and where to use them is specified in the code in the form of comments .
 # also you have to download the emoji folder uploaded and also have to update the path of emoji from our code to yours .
+# rest instructions are provided in the code in the form of comments
+
 
