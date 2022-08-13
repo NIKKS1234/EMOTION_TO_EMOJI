@@ -6,4 +6,4 @@
 # then you have to download the pre-trained models if you dont want to train it by yourself , the links are provided in the end the of spec doc and when and where to use them is specified in the code in the form of comments .
 # also you have to download the emoji folder uploaded and also have to update the path of emoji from our code to yours
 # finally you need to run the openCV.ipynb file after updating all paths, you will get an address of a web app, copy that address and open it in a new window
-# rest instructions are provided in the code in the form of comments
+# rest instructions are provided in the code in the form of comments.
